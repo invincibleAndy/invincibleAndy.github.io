@@ -4,11 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
 <title>登  录</title>
 <link rel="stylesheet"  href="logincc.css" type="text/css" >
-
 </head>
 <body>  <!-- background="图片/R-C.jpg"-->
 <form action="" class="login">
